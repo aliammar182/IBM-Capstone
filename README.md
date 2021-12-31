@@ -1,3 +1,3 @@
 # IBM-Capstone
 
-There is a capstone projec for data science specialization.
+There is a capstone project for data science specialization.
